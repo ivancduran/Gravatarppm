@@ -1,0 +1,12 @@
+{
+  "name": "Gravatar Simple Lib",
+  "version": "0.0.1",
+  "main": "Gravatar.php",
+  "description": "Get src and image from Gravatar services",
+  "author": "@ivancduran",
+  "license": {
+    "type": "MIT",
+    "url": ""
+  },
+  "repository": "git@github.com:ivancduran/Gravatarppm.git"
+}
