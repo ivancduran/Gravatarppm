@@ -1,5 +1,7 @@
 <?php
 
+namespace gravatarppm;
+
 class Gravatar extends Phalcon\Mvc\User\Component
 {
 
