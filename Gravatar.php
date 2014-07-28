@@ -2,7 +2,9 @@
 
 namespace gravatarppm;
 
-class Gravatar extends Phalcon\Mvc\User\Component
+use Phalcon\Mvc\User\Component;
+
+class Gravatar extends Component
 {
 
 	// * @param string $email The email address
